@@ -7,7 +7,7 @@ Windowsのコマンドプロンプトを使いやすくするための
 バッチファイル集
 
 These are batch files making Windows's command prompt more useful.  
-... __ MayBe. __
+... ** MayBe. **
 
 ライセンス（License）
 ----------------------------------------
