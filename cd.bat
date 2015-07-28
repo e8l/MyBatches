@@ -3,7 +3,7 @@
 rem // cd like linux
 
 if "%~1" equ "" (
-  if %HOME% neq "" (
+  if defined HOME (
     rem // user setting home
     cd /D %HOME%
   ) else (
